@@ -2,7 +2,11 @@
 
 <center><img src="https://raw.githubusercontent.com/learnbr/html-css/master/logo.png" widht="42" height="42"></center>
 
-<center> Projeto criado em HTML e CSS</center>
+<center> Projeto criado em HTML e CSS
+
+[Acesse o Resultado](https://thamiresviel.github.io/menuSimples_2ti/)
+
+</center>
 
 ---
 
